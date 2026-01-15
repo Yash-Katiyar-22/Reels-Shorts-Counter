@@ -1,72 +1,77 @@
-📱 Reels & Shorts Counter
-🚀 About the Project
+# 🎧 Reels & Shorts Counter
 
-Reels & Shorts Counter is an Android digital wellbeing application that tracks how many Instagram Reels and YouTube Shorts a user scrolls, along with the total time spent. The app runs in the background, records scrolling activity, and displays daily statistics through a dashboard and a home-screen widget to promote mindful social media usage.
+An Android digital wellbeing app that tracks how many Instagram Reels and YouTube Shorts you scroll — and how much time you spend doing it.  
+Because sometimes the biggest lie we tell ourselves is “just one more reel”.
 
-🎯 Objectives
+---
 
-Monitor short-form video scrolling behavior
+## 🚀 About
 
-Provide real-time daily usage insights
+Reels & Shorts Counter runs in the background and monitors short-form video scrolling activity.  
+It counts every Reel/Short viewed, tracks time spent, and displays daily stats in a simple dashboard and home-screen widget to help users become aware of their scrolling habits.
 
-Increase awareness of excessive social media consumption
+---
 
-Encourage healthier digital habits
+## ✨ Features
 
-✨ Features
+- Detects Instagram Reels and YouTube Shorts  
+- Counts number of scrolled short videos  
+- Tracks total time spent  
+- Daily usage statistics  
+- Home-screen widget for quick view  
+- Optional daily reminder  
+- Works completely offline  
 
-Detects Instagram Reels and YouTube Shorts activity
+---
 
-Counts number of scrolled Reels/Shorts
+## 🛠️ Tech Stack
 
-Tracks time spent on short-form content
+- Platform: Android  
+- Language: Kotlin  
+- UI: Jetpack Compose  
+- Background Services: Accessibility Service & Usage Stats API  
+- Local Storage: Room Database (SQLite)  
+- Widget: Android App Widget  
 
-Daily and weekly usage statistics
+---
 
-Home-screen widget for quick view
+## ⚙️ How It Works
 
-Optional daily usage reminder
+The app uses system permissions to detect:
+- Which app is currently open  
+- When scrolling happens inside Reels or Shorts  
 
-Fully offline and privacy-friendly
+Each scroll increments a counter stored locally.  
+The collected data is shown in the app dashboard and widget as daily usage insights.
 
-🛠️ Tech Stack
+---
 
-Platform: Android
+## 🔒 Privacy
 
-Language: Kotlin
+- No login required  
+- No internet connection needed  
+- No cloud storage  
+- All data stored locally on device  
 
-UI: Jetpack Compose
+---
 
-Background Services: Accessibility Service & Usage Stats API
+## 🌱 Future Enhancements
 
-Local Database: Room (SQLite)
+- Daily scrolling limits  
+- Personalized warning messages  
+- Weekly reports  
+- Cloud backup  
+- iOS version  
 
-Widget: Android App Widget
+---
 
-⚙️ How It Works
+## 👤 Author
 
-The app uses system-level permissions to detect when a user is viewing Reels or Shorts. Each scroll action increments a counter stored locally. The collected data is then displayed in a simple dashboard and widget, giving users real-time insight into their scrolling habits.
+**Yash Katiyar**
 
-🔐 Privacy
+---
 
-No account or login required
+## 📌 Status
 
-No internet or cloud storage used
-
-All data stored locally on device
-
-User-controlled permissions
-
-🌱 Future Enhancements
-
-Daily scrolling limit settings
-
-Personalized warning messages
-
-Cloud backup and multi-device sync
-
-iOS version support
-
-👤 Author
-
-Yash Katiyar
+Currently in development 🚧  
+Fighting the infinite scroll one build at a time.
