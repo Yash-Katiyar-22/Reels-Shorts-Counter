@@ -25,10 +25,6 @@ import com.example.reelscounter.ui.MainViewModel
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        
-        // Check for updates
-        com.example.reelscounter.util.UpdateManager.checkForUpdates(this)
-        
         setContent {
             val app = application as ReelsCounterApplication
             val viewModel: MainViewModel = viewModel(

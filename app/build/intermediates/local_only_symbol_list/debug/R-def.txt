@@ -20,5 +20,5 @@ string app_name
 xml accessibility_service_config
 xml backup_rules
 xml data_extraction_rules
-xml file_paths
+xml provider_paths
 xml reels_counter_widget_info

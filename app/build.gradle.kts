@@ -30,14 +30,6 @@ android {
             )
         }
     }
-    
-    applicationVariants.all {
-        outputs.all {
-            val output = this as com.android.build.gradle.internal.api.BaseVariantOutputImpl
-            val fileName = "Reel & Shorts Counter.apk"
-            output.outputFileName = fileName
-        }
-    }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8

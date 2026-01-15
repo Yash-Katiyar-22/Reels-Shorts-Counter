@@ -1,5 +1,5 @@
-com.example.reelscounter:xml/image_share_filepaths = 0x7f0d0005
-com.example.reelscounter:xml/file_paths = 0x7f0d0003
+com.example.reelscounter:xml/provider_paths = 0x7f0d0005
+com.example.reelscounter:xml/image_share_filepaths = 0x7f0d0004
 com.example.reelscounter:xml/accessibility_service_config = 0x7f0d0000
 com.example.reelscounter:styleable/SignInButton = 0x7f0c0008
 com.example.reelscounter:styleable/LoadingImageView = 0x7f0c0007
@@ -74,7 +74,7 @@ com.example.reelscounter:id/accessibility_custom_action_14 = 0x7f060007
 com.example.reelscounter:string/snackbar_dismiss = 0x7f0a006b
 com.example.reelscounter:string/tooltip_pane_description = 0x7f0a007e
 com.example.reelscounter:styleable/Capability = 0x7f0c0001
-com.example.reelscounter:xml/gma_ad_services_config = 0x7f0d0004
+com.example.reelscounter:xml/gma_ad_services_config = 0x7f0d0003
 com.example.reelscounter:style/DialogWindowTheme = 0x7f0b0000
 com.example.reelscounter:color/notification_icon_bg_color = 0x7f030014
 com.example.reelscounter:string/copy_toast_msg = 0x7f0a0023

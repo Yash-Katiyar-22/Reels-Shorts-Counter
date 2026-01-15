@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 provider#androidx.core.content.FileProvider
-INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:62:9-70:20
+INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:grantUriPermissions
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:66:13-47
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:23:13-47
 	android:authorities
 		INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:64:13-60
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:21:13-60
 	android:exported
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:65:13-37
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:63:13-62
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:20:13-62
 manifest
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:2:1-74:12
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:2:1-70:12
 MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\8da62e173c26e794fb489fb6a7a80fa0\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-ads:23.6.0] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\8a2702592f3e69ba19f04765e60ae860\transformed\play-services-ads-23.6.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-ads-lite:23.6.0] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\0b146652bb1a73503e97b72f2e20e3fc\transformed\play-services-ads-lite-23.6.0\AndroidManifest.xml:17:1-112:12
@@ -102,21 +102,9 @@ ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\s
 		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:5:76-111
 	android:name
 		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:5:22-75
-uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:6:5-83
-	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:6:22-80
-uses-permission#android.permission.INTERNET
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:7:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:23.6.0] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\0b146652bb1a73503e97b72f2e20e3fc\transformed\play-services-ads-lite-23.6.0\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:23.6.0] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\0b146652bb1a73503e97b72f2e20e3fc\transformed\play-services-ads-lite-23.6.0\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\4b5b5f90b4c93360fe984858c1f186c4\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\4b5b5f90b4c93360fe984858c1f186c4\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
-	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:7:22-64
 application
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:9:5-72:19
-INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:9:5-72:19
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:7:5-68:19
+INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:7:5-68:19
 MERGED from [com.google.android.gms:play-services-ads-lite:23.6.0] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\0b146652bb1a73503e97b72f2e20e3fc\transformed\play-services-ads-lite-23.6.0\AndroidManifest.xml:70:5-110:19
 MERGED from [com.google.android.gms:play-services-ads-lite:23.6.0] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\0b146652bb1a73503e97b72f2e20e3fc\transformed\play-services-ads-lite-23.6.0\AndroidManifest.xml:70:5-110:19
 MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\f7f46a208d9354519395abbce5398c0d\transformed\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
@@ -160,95 +148,95 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yashk\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.10.1] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\1588ac36a436c8b5fc600d6da6d2f1fe\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:15:9-51
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:13:9-51
 	android:fullBackupContent
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:13:9-54
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:11:9-54
 	android:roundIcon
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:16:9-47
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:14:9-47
 	tools:targetApi
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:19:9-29
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:17:9-29
 	android:icon
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:14:9-42
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:12:9-42
 	android:allowBackup
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:18:9-72
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:16:9-72
 	android:dataExtractionRules
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:12:9-65
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:10:9-65
 	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:10:9-48
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:8:9-48
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:21:9-23:69
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:29:9-31:69
 	android:value
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:23:13-67
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:31:13-67
 	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:22:13-69
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:30:13-69
 activity#com.example.reelscounter.MainActivity
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:25:9-34:20
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:33:9-42:20
 	android:label
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:28:13-42
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:36:13-42
 	android:exported
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:27:13-36
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:35:13-36
 	android:theme
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:29:13-76
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:37:13-76
 	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:26:13-41
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:34:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:30:13-33:29
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:38:13-41:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:31:17-69
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:32:17-77
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:40:17-77
 	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:32:27-74
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:40:27-74
 service#com.example.reelscounter.service.ScrollTrackingService
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:36:9-46:19
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:44:9-54:19
 	android:exported
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:39:13-36
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:47:13-36
 	android:permission
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:38:13-79
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:46:13-79
 	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:37:13-58
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:45:13-58
 intent-filter#action:name:android.accessibilityservice.AccessibilityService
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:40:13-42:29
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:48:13-50:29
 action#android.accessibilityservice.AccessibilityService
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:41:17-92
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:49:17-92
 	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:41:25-89
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:49:25-89
 meta-data#android.accessibilityservice
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:43:13-45:72
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:51:13-53:72
 	android:resource
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:45:17-69
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:53:17-69
 	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:44:17-60
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:52:17-60
 receiver#com.example.reelscounter.widget.ReelsCounterWidget
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:48:9-60:20
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:56:9-65:20
 	android:exported
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:50:13-36
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:58:13-36
 	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:49:13-54
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:57:13-54
 intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:51:13-53:29
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:59:13-61:29
 action#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:52:17-84
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:60:17-84
 	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:52:25-81
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:60:25-81
 meta-data#android.appwidget.provider
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:57:13-59:69
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:62:13-64:69
 	android:resource
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:59:17-66
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:64:17-66
 	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:58:17-58
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:63:17-58
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:67:13-69:54
+ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:24:13-26:58
 	android:resource
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:69:17-51
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:26:17-55
 	android:name
-		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:68:17-67
+		ADDED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml:25:17-67
 uses-sdk
 INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml
@@ -401,6 +389,12 @@ MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yashk\.gradle\caches\9.0-m
 		INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\0b146652bb1a73503e97b72f2e20e3fc\transformed\play-services-ads-lite-23.6.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\4b5b5f90b4c93360fe984858c1f186c4\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\4b5b5f90b4c93360fe984858c1f186c4\transformed\play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\0b146652bb1a73503e97b72f2e20e3fc\transformed\play-services-ads-lite-23.6.0\AndroidManifest.xml:24:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-ads-lite:23.6.0] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\0b146652bb1a73503e97b72f2e20e3fc\transformed\play-services-ads-lite-23.6.0\AndroidManifest.xml:25:5-79
 MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\f7f46a208d9354519395abbce5398c0d\transformed\work-runtime-2.7.0\AndroidManifest.xml:26:5-79

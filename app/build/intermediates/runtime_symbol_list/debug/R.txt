@@ -448,7 +448,7 @@ int styleable SignInButton_scopeUris 2
 int xml accessibility_service_config 0x7f0d0000
 int xml backup_rules 0x7f0d0001
 int xml data_extraction_rules 0x7f0d0002
-int xml file_paths 0x7f0d0003
-int xml gma_ad_services_config 0x7f0d0004
-int xml image_share_filepaths 0x7f0d0005
+int xml gma_ad_services_config 0x7f0d0003
+int xml image_share_filepaths 0x7f0d0004
+int xml provider_paths 0x7f0d0005
 int xml reels_counter_widget_info 0x7f0d0006

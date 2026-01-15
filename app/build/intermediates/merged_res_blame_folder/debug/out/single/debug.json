@@ -12,16 +12,20 @@
         "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\xml\\reels_counter_widget_info.xml"
     },
     {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\xml\\file_paths.xml"
+    },
+    {
         "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\drawable_app_logo.png.flat",
-        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\drawable\\app_logo.png"
+        "merged": "com.example.reelscounter.app-merged_res-60:/xml_provider_paths.xml.flat",
+        "source": "com.example.reelscounter.app-main-62:/xml/provider_paths.xml"
     },
     {
-        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\drawable_app_logo.jpg.flat",
-        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\drawable\\app_logo.jpg"
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\drawable\\app_logo.png"
     },
     {
         "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\layout_widget_reels_counter.xml.flat",
@@ -62,9 +66,5 @@
     {
         "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\drawable_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\drawable\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "com.example.reelscounter.app-merged_res-60:/xml_file_paths.xml.flat",
-        "source": "com.example.reelscounter.app-main-62:/xml/file_paths.xml"
     }
 ]
