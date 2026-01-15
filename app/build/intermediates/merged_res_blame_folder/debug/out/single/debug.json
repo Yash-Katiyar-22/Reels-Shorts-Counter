@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\xml_accessibility_service_config.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\xml_reels_counter_widget_info.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\xml\\reels_counter_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\drawable_app_logo.jpg.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\drawable\\app_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\layout_widget_reels_counter.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\layout\\widget_reels_counter.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\drawable_widget_background.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\drawable\\widget_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\drawable_ic_instagram_gradient.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\drawable\\ic_instagram_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\drawable_ic_youtube_red.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\drawable\\ic_youtube_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\drawable_gradient_shorts.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\drawable\\gradient_shorts.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\drawable_gradient_reels.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\drawable\\gradient_reels.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-merged_res-60:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yashk\\.gradle\\daemon\\9.0-milestone-1\\com.example.reelscounter.app-main-62:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.reelscounter.app-merged_res-60:/xml_file_paths.xml.flat",
+        "source": "com.example.reelscounter.app-main-62:/xml/file_paths.xml"
+    }
+]

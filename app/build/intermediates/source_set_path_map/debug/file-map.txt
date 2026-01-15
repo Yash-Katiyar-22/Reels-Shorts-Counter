@@ -1,0 +1,62 @@
+com.example.reelscounter.app-webkit-1.11.0-alpha02-0 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\0279b81909f56bf1e621df864867ef29\transformed\webkit-1.11.0-alpha02\res
+com.example.reelscounter.app-lifecycle-viewmodel-ktx-2.6.1-1 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\02d0c3f126a4e2b9906080dc323b074a\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.example.reelscounter.app-play-services-ads-lite-23.6.0-2 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\0b146652bb1a73503e97b72f2e20e3fc\transformed\play-services-ads-lite-23.6.0\res
+com.example.reelscounter.app-sqlite-framework-2.4.0-3 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\14c8254eb153045d210914c72ca78616\transformed\sqlite-framework-2.4.0\res
+com.example.reelscounter.app-core-1.10.1-4 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\1588ac36a436c8b5fc600d6da6d2f1fe\transformed\core-1.10.1\res
+com.example.reelscounter.app-play-services-basement-18.4.0-5 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\15ff822bd95386e48dc0ed7b1c94a1a1\transformed\play-services-basement-18.4.0\res
+com.example.reelscounter.app-ui-release-6 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\18fc7ea246b60c1a49d4e8f55db69513\transformed\ui-release\res
+com.example.reelscounter.app-room-runtime-2.6.1-7 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\2043a096a52e1d7b2d4d05f6a389fb65\transformed\room-runtime-2.6.1\res
+com.example.reelscounter.app-ads-adservices-1.0.0-beta05-8 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\226b7d3af278c0302e1f199d45213b73\transformed\ads-adservices-1.0.0-beta05\res
+com.example.reelscounter.app-lifecycle-viewmodel-2.6.1-9 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\33b1cc98cb5047c5348b840ceee3c121\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.reelscounter.app-ui-test-manifest-1.5.0-10 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\34d132bf8df31f98644547818a584fed\transformed\ui-test-manifest-1.5.0\res
+com.example.reelscounter.app-runtime-release-11 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\3ce7e52aa64f6d46b36393d23eea46bb\transformed\runtime-release\res
+com.example.reelscounter.app-core-runtime-2.2.0-12 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\4155b60c85483607421cafa66a1263e3\transformed\core-runtime-2.2.0\res
+com.example.reelscounter.app-animation-release-13 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\4661df55cda676a2936f4489eb5ad042\transformed\animation-release\res
+com.example.reelscounter.app-material-ripple-release-14 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\494e9ef8766886a916e3dd267514b5fb\transformed\material-ripple-release\res
+com.example.reelscounter.app-lifecycle-runtime-ktx-2.6.1-15 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\4a9c72cbf152c3e2f45260895e56fdac\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.example.reelscounter.app-lifecycle-livedata-core-2.6.1-16 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\524e3529781bf9e2dce945dc3fa41f3c\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.reelscounter.app-activity-compose-1.7.0-17 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\595a025bdd3b90bbe1ca3b12496d3b16\transformed\activity-compose-1.7.0\res
+com.example.reelscounter.app-startup-runtime-1.1.1-18 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\5fb0b623a729b9f01759ef39a6e200bc\transformed\startup-runtime-1.1.1\res
+com.example.reelscounter.app-profileinstaller-1.3.0-19 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\600d8533b5da065eda3bae62f68c682c\transformed\profileinstaller-1.3.0\res
+com.example.reelscounter.app-browser-1.8.0-20 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\628808d1b25585a62a5b178b435480b6\transformed\browser-1.8.0\res
+com.example.reelscounter.app-ui-graphics-release-21 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\631dd56ad1225e8046059ec6337931d1\transformed\ui-graphics-release\res
+com.example.reelscounter.app-ui-tooling-release-22 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\661d1010ec148a693549632f33f57d32\transformed\ui-tooling-release\res
+com.example.reelscounter.app-lifecycle-livedata-2.6.1-23 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\6a7ece1221d066b76e7e30b42c38ba30\transformed\lifecycle-livedata-2.6.1\res
+com.example.reelscounter.app-lifecycle-viewmodel-savedstate-2.6.1-24 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\74b1cc9394d572b429fe93735c4c334c\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.reelscounter.app-animation-core-release-25 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\769016c5022ed8c5b9d356c410387448\transformed\animation-core-release\res
+com.example.reelscounter.app-runtime-saveable-release-26 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\777872db42d1f92f9955f6b3fbe5373f\transformed\runtime-saveable-release\res
+com.example.reelscounter.app-foundation-layout-release-27 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\792716b2bf1ec6bb864c2559fc3cf2d3\transformed\foundation-layout-release\res
+com.example.reelscounter.app-ui-tooling-data-release-28 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\7929d95d94693447a579faa62825b031\transformed\ui-tooling-data-release\res
+com.example.reelscounter.app-ui-text-release-29 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\79b54d574cb5e2c5f2290f9ce2e16eea\transformed\ui-text-release\res
+com.example.reelscounter.app-play-services-base-18.0.0-30 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\881e3b29f0d76146f1841ad932007e1d\transformed\play-services-base-18.0.0\res
+com.example.reelscounter.app-play-services-ads-23.6.0-31 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\8a2702592f3e69ba19f04765e60ae860\transformed\play-services-ads-23.6.0\res
+com.example.reelscounter.app-sqlite-2.4.0-32 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\8b943f9bf4ef097792978fac0d0a444f\transformed\sqlite-2.4.0\res
+com.example.reelscounter.app-ads-adservices-java-1.0.0-beta05-33 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\8cb71b91feb4b07988397d56928e47b4\transformed\ads-adservices-java-1.0.0-beta05\res
+com.example.reelscounter.app-room-ktx-2.6.1-34 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\8da62e173c26e794fb489fb6a7a80fa0\transformed\room-ktx-2.6.1\res
+com.example.reelscounter.app-ui-tooling-preview-release-35 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\92535aa9ec2c5292ac124e1613a9b64a\transformed\ui-tooling-preview-release\res
+com.example.reelscounter.app-emoji2-1.4.0-36 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\9bfeebd71fade8a0f41b503496bd8f01\transformed\emoji2-1.4.0\res
+com.example.reelscounter.app-material-release-37 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\a77f0381e21d1f1768386613ac3e1731\transformed\material-release\res
+com.example.reelscounter.app-ui-util-release-38 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\b39d2c33ea3da3e189c05fce482f8e7b\transformed\ui-util-release\res
+com.example.reelscounter.app-savedstate-ktx-1.2.1-39 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\b58e7d5e1e2801d6445333eb1f74c181\transformed\savedstate-ktx-1.2.1\res
+com.example.reelscounter.app-lifecycle-runtime-2.6.1-40 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\b590f85343f6d913237c3986ccc913ae\transformed\lifecycle-runtime-2.6.1\res
+com.example.reelscounter.app-savedstate-1.2.1-41 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\b7493057c200004cd711c523a41347b5\transformed\savedstate-1.2.1\res
+com.example.reelscounter.app-activity-1.7.0-42 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\b84d68f5d44de2fb64ada4abcee0ed74\transformed\activity-1.7.0\res
+com.example.reelscounter.app-core-ktx-1.10.1-43 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\bd36eb4565ec164ad3e4a0613000f3c7\transformed\core-ktx-1.10.1\res
+com.example.reelscounter.app-foundation-release-44 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\c9912f1b7a3d4558254783e634c6b75b\transformed\foundation-release\res
+com.example.reelscounter.app-material3-1.1.1-45 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\cd5d4e2c14291506a73a7bda669b8610\transformed\material3-1.1.1\res
+com.example.reelscounter.app-annotation-experimental-1.4.0-46 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\d59a46f30e927a5beccee06d62dfca49\transformed\annotation-experimental-1.4.0\res
+com.example.reelscounter.app-lifecycle-service-2.6.1-47 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\d971723d095b7aaf5b566e558b48fa4a\transformed\lifecycle-service-2.6.1\res
+com.example.reelscounter.app-lifecycle-viewmodel-compose-2.6.1-48 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\dda74d2bc7bdd781f3ecc34d9168ef4c\transformed\lifecycle-viewmodel-compose-2.6.1\res
+com.example.reelscounter.app-lifecycle-process-2.6.1-49 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\e447b655fb295e3eaa42eb97c21a18c3\transformed\lifecycle-process-2.6.1\res
+com.example.reelscounter.app-customview-poolingcontainer-1.0.0-50 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\e81735ef27776aa691b32a1a476d2a1d\transformed\customview-poolingcontainer-1.0.0\res
+com.example.reelscounter.app-material-icons-core-release-51 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\ede29a864178f345e29914ecf5f71995\transformed\material-icons-core-release\res
+com.example.reelscounter.app-work-runtime-2.7.0-52 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\f7f46a208d9354519395abbce5398c0d\transformed\work-runtime-2.7.0\res
+com.example.reelscounter.app-ui-geometry-release-53 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\fb103e3e11fbfc2a1957f0a337ef9381\transformed\ui-geometry-release\res
+com.example.reelscounter.app-ui-unit-release-54 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\fcf20492fc1aa7d6814b375f718eed5c\transformed\ui-unit-release\res
+com.example.reelscounter.app-activity-ktx-1.7.0-55 C:\Users\yashk\.gradle\caches\9.0-milestone-1\transforms\fe0c2008cbb269bde0256c18a0a0e63d\transformed\activity-ktx-1.7.0\res
+com.example.reelscounter.app-resValues-56 C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\build\generated\res\resValues\debug
+com.example.reelscounter.app-packageDebugResources-57 C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.reelscounter.app-packageDebugResources-58 C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.reelscounter.app-merged_res-59 C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\build\intermediates\merged_res\debug
+com.example.reelscounter.app-debug-60 C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\debug\res
+com.example.reelscounter.app-main-61 C:\Users\yashk\OneDrive\Desktop\perosnal project insta scroller\app\src\main\res

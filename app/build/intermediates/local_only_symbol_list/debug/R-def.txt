@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+drawable app_logo
+drawable gradient_reels
+drawable gradient_shorts
+drawable ic_instagram_gradient
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_youtube_red
+drawable widget_background
+id appwidget_reels_count
+id appwidget_reels_time
+id appwidget_shorts_count
+id appwidget_shorts_time
+layout widget_reels_counter
+mipmap ic_launcher
+mipmap ic_launcher_round
+string accessibility_service_description
+string app_name
+xml accessibility_service_config
+xml backup_rules
+xml data_extraction_rules
+xml file_paths
+xml reels_counter_widget_info

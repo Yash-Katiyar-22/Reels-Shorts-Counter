@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">This service tracks your scrolling in Instagram and YouTube to count Reels and Shorts.</string>
+    <string name="app_name">Reels &amp; Shorts Counter</string>
+</resources>
