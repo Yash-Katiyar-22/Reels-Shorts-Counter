@@ -57,6 +57,10 @@ body {
     margin-left: 2rem;
 }
 
+.nav-links .btn-primary:hover {
+    color: var(--bg-color);
+}
+
 /* Components */
 .btn-primary {
     background: var(--text-color);
@@ -71,6 +75,8 @@ body {
 
 .btn-primary:hover {
     transform: scale(1.05);
+    color: var(--bg-color);
+    /* Force text color to stay dark on hover */
 }
 
 .btn-secondary {
